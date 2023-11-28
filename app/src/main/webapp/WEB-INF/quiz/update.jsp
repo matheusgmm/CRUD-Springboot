@@ -15,9 +15,9 @@
               </button>
               <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                  <a class="nav-link active" aria-current="page" href="quiz/list">Quizzes</a>
-                  <a class="nav-link active" aria-current="page" href="questao/list">Questões</a>
-                  <a class="nav-link active" aria-current="page" href="alternativa/list">Alternativas</a>
+                  <a class="nav-link active" aria-current="page" href="../quiz/list">Quizzes</a>
+                  <a class="nav-link active" aria-current="page" href="../questao/list">Questões</a>
+                  <a class="nav-link active" aria-current="page" href="../alternativa/list">Alternativas</a>
                 </div>
               </div>
             </div>
